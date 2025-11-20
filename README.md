@@ -40,15 +40,15 @@ Unlike typical students, I don't just learn concepts; I **build products**. I fo
 
 ### 🏆 Featured Projects
 
-#### 🧠 **[IndoBERT Gambling Detector](LINK_REPO_SKRIPSI)**
+#### 🧠 **[IndoBERT Gambling Detector](https://github.com/rifki-ardhika-putra7/indobert-gambling-detection)**
 > *NLP, Deep Learning, Flask*
 > An advanced API to detect online gambling content in Indonesian text using a fine-tuned BERT model. Features bulk CSV processing and visual analytics dashboard.
 
-#### 💪 **[The Gains Alchemist](LINK_REPO_GAINS)**
+#### 💪 **[The Gains Alchemist](https://github.com/rifki-ardhika-putra7/gains-alchemist)**
 > *Full Stack, Machine Learning, Data Science*
 > A personalized fitness intelligence platform. Uses Linear Regression to predict future strength (1RM), tracks progressive overload, and visualizes muscle volume distribution.
 
-#### 💰 **[The War Chest](LINK_REPO_WARCHEST)**
+#### 💰 **[The War Chest](https://github.com/rifki-ardhika-putra7/war-chest-finance)**
 > *Secure Web App, Finance*
 > A multi-user financial survival tool with encrypted authentication. Features "Survival Mode" estimation logic to calculate financial runway based on real-time spending habits.
 

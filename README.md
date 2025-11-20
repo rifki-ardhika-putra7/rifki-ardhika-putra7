@@ -1,25 +1,60 @@
-# 💫 About Me:
-**Hi, saya Rifki 👋**
-<br>Mahasiswa Teknik Informatika dengan ketertarikan besar di bidang web development, UI/UX, dan pengolahan data.  <br>Saat ini saya sedang fokus membangun portofolio pribadi yang modern sambil memperdalam skill di React, Firebase, dan pembuatan dashboard yang responsif dan fungsional.  <br>Bagi saya, kode yang bersih dan desain yang nyaman bukan sekadar pelengkap—keduanya adalah fondasi yang saling menguatkan.<br>
-<br>🎯 **Sedang saya kerjakan:**  <br>Portofolio web modern dengan React, Vite, dan Tailwind yang elegan dan terstruktur  <br>
-<br>📚 **Yang sedang saya pelajari:**  <br>- Integrasi lanjutan Firebase  <br>- Pola UI/UX untuk dashboard interaktif  <br>- Dasar-dasar machine learning untuk eksplorasi data dan otomasi  <br>- Optimasi workflow Linux untuk produktivitas developer  <br>
-<br>🤝 **Tertarik berkolaborasi di bidang:**  <br>- Komponen modular  <br>- Sistem administrasi ringan  <br>- Proyek edukatif berbasis web  <br>- Aplikasi berbasis data  <br>
-<br>💡 **Fun fact:**  <br>Entah kenapa ide baru ada pas lagi berak ataupun saat mau tidur 😅<br>
+# <div align="center">Hi there, I'm Kay (Rifki) 👋</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@Ki) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rky.ptraa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@Rifki-Ardhika-Putra) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rifki-ardhika-putra7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rifki-ardhika-putra7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rifki-ardhika-putra7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rifki-ardhika-putra7&theme=default&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <h3>🚀 AI Engineer | Full Stack Developer | Data Scientist</h3>
+  <p>
+    <em>"Building robust systems during the night, building physical strength during the day."</em>
+  </p>
+  
+  <a href="https://www.linkedin.com/in/rifki-ardhika-putra">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:EMAIL_LU@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rifki-ardhika-putra7&icon=0&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+I'm an Informatics Engineering student approaching graduation, specializing in **Artificial Intelligence** and **Software Architecture**. 
+
+Unlike typical students, I don't just learn concepts; I **build products**. I focus on solving real world problems through code whether it's detecting online gambling syndicates using **IndoBERT**, predicting financial runways, or optimizing workout gains with **Machine Learning**.
+
+* 🔭 **Currently working on:** Integrating Computer Vision for real-time productivity tools.
+* 🌱 **Learning:** Advanced RAG (Retrieval-Augmented Generation) & System Scalability.
+* ⚡ **Philosophy:** Discipline > Motivation. (Code daily, Train daily).
+
+---
+
+### 🛠️ The Arsenal (Tech Stack)
+
+| Domain | Technologies |
+| :--- | :--- |
+| **AI & ML** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) |
+| **Backend** | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
+
+---
+
+### 🏆 Featured Projects
+
+#### 🧠 **[IndoBERT Gambling Detector](LINK_REPO_SKRIPSI)**
+> *NLP, Deep Learning, Flask*
+> An advanced API to detect online gambling content in Indonesian text using a fine-tuned BERT model. Features bulk CSV processing and visual analytics dashboard.
+
+#### 💪 **[The Gains Alchemist](LINK_REPO_GAINS)**
+> *Full Stack, Machine Learning, Data Science*
+> A personalized fitness intelligence platform. Uses Linear Regression to predict future strength (1RM), tracks progressive overload, and visualizes muscle volume distribution.
+
+#### 💰 **[The War Chest](LINK_REPO_WARCHEST)**
+> *Secure Web App, Finance*
+> A multi-user financial survival tool with encrypted authentication. Features "Survival Mode" estimation logic to calculate financial runway based on real-time spending habits.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rifki-ardhika-putra7&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifki-ardhika-putra7&layout=compact&theme=radical&hide_border=true" alt="Languages" />
+</div>
